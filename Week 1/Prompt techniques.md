@@ -28,5 +28,8 @@ Sentiment:
 Sentiment: Neutral
 The review mentions a positive aspect ("The battery lasts all day") and a neutral/slightly negative aspect ("the camera quality is average"), resulting in an overall neutral sentiment.
 ```
-
+### Claude response
+```
+Sentiment: Neutral
+```
 
