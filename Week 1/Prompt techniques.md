@@ -68,3 +68,21 @@ The review includes both a positive comment ("The battery lasts all day") and a 
 ```
 Sentiment: Neutral
 ```
+
+---
+
+## Chain of Thought Prompting
+
+### Prompt 
+```
+Classify the sentiment of the following review as Positive, Negative, or Neutral.
+
+Think through the review step by step. Consider both the positive and negative aspects before deciding on the overall sentiment.
+
+Review:
+"The battery lasts all day, but the camera quality is average."
+
+Reasoning:
+Final Sentiment:
+```
+
