@@ -32,4 +32,26 @@ The review mentions a positive aspect ("The battery lasts all day") and a neutra
 ```
 Sentiment: Neutral
 ```
+---
+## Few Shot Prompting
+
+### Prompt 
+```
+Classify the sentiment of the following reviews as Positive, Negative, or Neutral.
+
+Example 1:
+Review: "The food was amazing."
+Sentiment: Positive
+
+Example 2:
+Review: "The service was terrible."
+Sentiment: Negative
+
+Now classify this review:
+
+Review:
+"The battery lasts all day, but the camera quality is average."
+
+Sentiment:
+```
 
