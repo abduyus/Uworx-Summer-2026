@@ -64,3 +64,7 @@ The review includes both a positive comment ("The battery lasts all day") and a 
 ```
 
 
+### Claude response
+```
+Sentiment: Neutral
+```
