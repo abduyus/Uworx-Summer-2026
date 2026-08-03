@@ -55,3 +55,12 @@ Review:
 Sentiment:
 ```
 
+### ChatGPT response
+```
+**Sentiment:** **Neutral**
+
+The review includes both a positive comment ("The battery lasts all day") and a neutral/slightly negative comment ("the camera quality is average"), so the overall sentiment is **Neutral**.
+
+```
+
+
