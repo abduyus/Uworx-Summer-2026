@@ -8,9 +8,14 @@ The project is organized by week, with a folder for each week from **Week 1** to
 
 ```text
 Week 1/
-  Zero shot prompting.md
+  Prompt techniques.md
 Week 2/
-  ...
+  backend/
+    ...
+  frontend/
+    ...
+  screenshots/
+    ...
 Week 3/
   ...
 Week 4/
@@ -23,7 +28,7 @@ Week 6/
 
 ## Example
 
-One example file is **Week 1/Zero shot prompting.md**, which shows a zero-shot prompting example with an input prompt and the model output.
+One example file is **Week 1/Prompt techniques.md**, which shows a zero-shot prompting example with an input prompt and the model output.
 
 ## Purpose
 
