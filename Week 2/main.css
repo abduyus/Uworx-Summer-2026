@@ -83,7 +83,7 @@ h1 {
     margin-bottom: 14px;
 }
 
-#quote {
+.quote {
     font-size: 1.2rem;
     line-height: 1.8;
     color: var(--color-grey-400);
